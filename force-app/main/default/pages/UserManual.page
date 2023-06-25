@@ -1,0 +1,8 @@
+<apex:page >
+    <apex:slds />
+    <apex:form >
+        <div style="font-color:green; font-size:20px">
+            WELCOME
+        </div>
+    </apex:form>
+</apex:page>
